@@ -1,0 +1,19 @@
+
+hi there 
+this is the first file 
+that we are creating to useful to show git and github working process
+
+
+there is some new changes in code
+
+a = "empty"
+b = "bn"
+print("print the otput",a+b)
+
+
+
+new changes occures in python code
+
+python new topic 
+data types
+
